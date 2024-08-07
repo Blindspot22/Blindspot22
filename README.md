@@ -13,9 +13,10 @@
 ## **💡About Me**:
 - Passionate Rust developer and an active contributor to the [Rust programming language](https://github.com/rust-lang/rust).
 - Founder and maintainer of [**Orust OS**](https://github.com/orust-org/orust-OS), an open source operating system built with Rust.
-- Experienced in front-end and back-end development with proficiency in [HTML](https://github.com/whatwg/html), [CSS](https://github.com/w3c/csswg-drafts), [Python](https://github.com/python), [JavaScript](https://github.com/nodejs), [Java](https://github.com/openjdk), and [Go](https://github.com/golang/go).
+- Experienced in front-end and back-end development with proficiency in [HTML](https://github.com/whatwg/html), [CSS](https://github.com/w3c/csswg-drafts), [Python](https://github.com/python), [JavaScript](https://github.com/nodejs), [Java](https://github.com/openjdk), [PHP](https://github.com/php), [Ruby](https://github.com/ruby) and [Go](https://github.com/golang/go).
+- Experienced in low-level programming as well with proficiency in [Rust](https://github.com/rust-lang), [C++](https://github.com/cplusplus) and [Ada](https://github.com/AdaCore)
 - DevOps experienced with tools like [Docker](https://github.com/docker), [Kubernetes](https://github.com/kubernetes), [AWS cloud services](https://github.com/aws)...
-- Certified Linux Administrator (LPIC), JavaScript Developer.
+- Certified Linux Administrator.
 
 ---
 ## Skills and Expertise
@@ -26,6 +27,7 @@
 - **Full-Stack Development**: Knowledge of both front-end and back-end technologies.
 - **End-to-End Testing**: Skills in testing complex applications.
 - **Infrastructure as Code (IaC)**: Proficiency in Terraform and managing infrastructure through code.
+- **Linux Administrator**: Proficient in effectively managing, maintaining, and secure Linux-based systems.
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
