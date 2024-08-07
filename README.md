@@ -9,7 +9,7 @@
 ---
 ## **💡About Me**:
 - Passionate Rust developer and an active contributor to the [Rust programming language](https://github.com/rust-lang/rust).
-- Founder and owner of [**Orust OS**](https://github.com/orust-org/orust-OS), an open source operating system built with Rust.
+- Founder and maintainer of [**Orust OS**](https://github.com/orust-org/orust-OS), an open source operating system built with Rust.
 - Experienced in front-end and back-end development with proficiency in HTML, CSS, Python, JavaScript, Java, and Go.
 - DevOps experienced with tools like Docker, Kubernetes, AWS cloud services...
 - Certified Linux Administrator (LPIC), JavaScript Developer.
