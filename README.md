@@ -2,7 +2,7 @@
 ## -  Hi there 👋
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Blindspot22&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Blindspot22&show_icons=true)<br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Blindspot22&theme=react&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blindspot22&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -17,6 +17,15 @@
 - DevOps experienced with tools like [Docker](https://github.com/docker), [Kubernetes](https://github.com/kubernetes), [AWS cloud services](https://github.com/aws)...
 - Certified Linux Administrator (LPIC), JavaScript Developer.
 
+---
+## Skills and Expertise
+- **Rust Programming**: Advanced proficiency in Rust and Rust embedded development.
+- **Decentralized Identity & DIDComm**: Experience with decentralized communication and identity.
+- **Open Source Contribution**: Active involvement in large-scale open source projects.
+- **Keycloak & Identity Management**: Integration and extension of identity management systems.
+- **Full-Stack Development**: Knowledge of both front-end and back-end technologies.
+- **End-to-End Testing**: Skills in testing complex applications.
+- **Infrastructure as Code (IaC)**: Proficiency in Terraform and managing infrastructure through code.
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
