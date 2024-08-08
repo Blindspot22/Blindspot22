@@ -19,7 +19,7 @@
 - Certified Linux Administrator.
 
 ---
-## Skills and Expertise
+## Skills and Expertise:
 - **Rust Programming**: Advanced proficiency in Rust and Rust embedded development.
 - **Decentralized Identity & DIDComm**: Experience with decentralized communication and identity.
 - **Open Source Contribution**: Active involvement in large-scale open source projects.
