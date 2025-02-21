@@ -22,7 +22,7 @@
 ---
 ## Skills and Expertise:
 - **Rust Programming**: Advanced proficiency in Rust and Rust embedded development.
-- **Decentralized Identity & DIDComm**: Experience with decentralized communication and identity.
+- **Decentralized Identity & DIDComm**: Experience with decentralized Identities and communication.
 - **Open Source Contribution**: Active involvement in large-scale open source projects.
 - **Keycloak & Identity Management**: Integration and extension of identity management systems.
 - **Full-Stack Development**: Knowledge of both front-end and back-end technologies.
